@@ -14,7 +14,7 @@
    id="svg3640"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="wasmuth_lab_logo.svg"
+   sodipodi:docname="wasmuth_lab_logo_curved.svg"
    inkscape:export-filename="/home/micand/inbox/2013.08/wasmuth_lab_logo.png"
    inkscape:export-xdpi="33.333332"
    inkscape:export-ydpi="33.333332">
@@ -36,16 +36,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="328.74768"
-     inkscape:cy="609.57616"
+     inkscape:zoom="3.959798"
+     inkscape:cx="327.68122"
+     inkscape:cy="709.32702"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1276"
-     inkscape:window-height="967"
+     inkscape:window-height="949"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="54"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -66,6 +66,10 @@
        orientation="1,0"
        position="379.28571,617.85714"
        id="guide4836" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="308.21429,705.35714"
+       id="guide3798" />
   </sodipodi:namedview>
   <metadata
      id="metadata3645">
@@ -85,7 +89,7 @@
      id="layer1">
     <g
        id="g3755"
-       transform="matrix(0,1,-1,0,716.29237,79.692221)"
+       transform="matrix(-0.03358257,0.99943595,-0.99943595,-0.03358257,725.59053,91.856835)"
        inkscape:export-filename="/home/micand/inbox/2013.08/wasmuth_lab_logo.png"
        inkscape:export-xdpi="33.333332"
        inkscape:export-ydpi="33.333332">
@@ -183,18 +187,15 @@
     </g>
     <path
        style="fill:#565656;fill-opacity:1;stroke:none"
-       d="m 277.93375,377.45328 c -3.91763,-0.075 -7.3085,-0.93647 -10.93782,-2.59375 -4.1478,-1.89403 -6.41633,-3.35628 -7.93398,-4.66858 -1.51764,-1.3123 -0.077,-0.70856 0.86454,-0.67533 0.47824,0.0169 8.73653,10.01381 33.05119,2.43766 9.02041,-2.81065 16.03155,-2.5584 21.30928,-1.15625 l 0,3.0625 c -4.92454,-1.11254 -10.80697,-1.54309 -16.8138,0.125 -8.56823,2.37938 -14.50246,3.56516 -19.53941,3.46875 z"
+       d="m 254.56142,346.99629 c -0.77809,-0.27698 -0.9815,1.32922 -1.14086,3.24477 -1.21058,14.55126 6.76275,19.69868 12.80725,22.07035 3.69143,1.73136 7.86386,2.22741 11.25501,2.43291 5.03087,0.2655 10.99342,-0.72059 19.63672,-2.81088 6.05946,-1.46543 11.92281,-0.83762 16.80721,0.43967 l 0.10285,-3.06077 c -5.22766,-1.5786 -12.2296,-2.06627 -21.33931,0.43987 -12.13764,3.33914 -20.20532,2.52512 -25.32366,0.83754 -4.29376,-1.7527 -12.53983,-7.64577 -12.60651,-15.65094 -0.0667,-8.00517 0.57939,-7.66554 -0.1987,-7.94252 z"
        id="path4844"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssccss"
-       inkscape:export-filename="/home/micand/inbox/2013.08/wasmuth_lab_logo.png"
-       inkscape:export-xdpi="33.333332"
-       inkscape:export-ydpi="33.333332" />
+       sodipodi:nodetypes="zsccsccsczz" />
     <text
        xml:space="preserve"
-       style="font-size:20.40081023999999843px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00adeb;fill-opacity:1;stroke:none;font-family:Sans"
-       x="258.79349"
-       y="363.89819"
+       style="font-size:20.40081024px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00adeb;fill-opacity:1;stroke:none;font-family:Sans"
+       x="257.36493"
+       y="362.46964"
        id="text3019"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/micand/inbox/2013.08/wasmuth_lab_logo.png"
@@ -202,9 +203,9 @@
        inkscape:export-ydpi="33.333332"><tspan
          sodipodi:role="line"
          id="tspan3021"
-         x="258.79349"
-         y="363.89819"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway Bold;fill:#00adeb;fill-opacity:1">wasmuth<tspan
+         x="257.36493"
+         y="362.46964"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#00adeb;fill-opacity:1;font-family:Raleway;-inkscape-font-specification:Raleway Bold">wasmuth<tspan
    style="fill:#565656;fill-opacity:1"
    id="tspan3949">lab</tspan></tspan></text>
   </g>
