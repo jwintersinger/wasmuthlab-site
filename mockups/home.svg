@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="home.svg"
-   inkscape:export-filename="/home/micand/inbox/2013.08/wasmuth_lab_logo.png"
-   inkscape:export-xdpi="240.63"
-   inkscape:export-ydpi="240.63">
+   inkscape:export-filename="/tmp/home_mockup.png"
+   inkscape:export-xdpi="119.94958"
+   inkscape:export-ydpi="119.94958">
   <defs
      id="defs3642">
     <clipPath
@@ -37,15 +37,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.62353184"
-     inkscape:cx="366.18641"
-     inkscape:cy="373.00795"
+     inkscape:cx="234.69287"
+     inkscape:cy="237.88476"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1267"
-     inkscape:window-height="987"
+     inkscape:window-height="933"
      inkscape:window-x="0"
-     inkscape:window-y="72"
+     inkscape:window-y="126"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -106,7 +106,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -428,7 +428,7 @@
            y="-24.750004" /></flowRegion><flowPara
          id="flowPara4199" /></flowRoot>    <path
        style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 30.206194,816.57499 671.761326,0"
+       d="m 30.206194,820.57499 308.508026,0"
        id="path4234"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -656,5 +656,11 @@
          id="tspan4020"
          x="82.784538"
          y="38.188931">t</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3104"
+       d="m 393.06326,820.57499 308.50803,0"
+       style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
 </svg>
