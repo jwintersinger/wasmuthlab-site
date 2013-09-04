@@ -3,6 +3,10 @@ body {
   padding-top: 94px;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 .navbar {
   background-color: #f5f5f5;
   height: 94px;
@@ -46,7 +50,6 @@ body {
   width: 194px;
   height: 47px;
   margin-top: 24px;
-  float: left;
 }
 
 #navbar-logo > span {
@@ -81,4 +84,72 @@ body {
   font-size: 42px;
   font-weight: 400;
   font-style: normal;
+}
+
+#hero-msg #learn-more {
+  display: block;
+  font-size: 18px;
+  font-family: 'Droid Sans', sans-serif;
+  width: 200px;
+  margin-right: 0;
+  margin-left: auto;
+  width: 215px;
+  line-height: 1.4;
+  padding: 0 30px 0 17px;
+
+  color: white;
+
+  background-color: rgba(0, 0, 0, 0.612);
+  background-image: url('../img/flask.png');
+  background-size: 25px;
+  background-repeat: no-repeat;
+  background-position: 170px;
+
+  // Offset background image.
+  border-right: 15px solid transparent;
+}
+
+#recent-updates {
+  color: white;
+}
+
+#recent-updates h1 a {
+  font-family: 'Raleway', sans-serif;
+  font-size: 31px;
+  text-transform: lowercase;
+  color: white;
+}
+
+#recent-blog-posts h1 a {
+  background-image: url('../img/blog_icon.png');
+  background-size: 29px;
+  background-repeat: no-repeat;
+  background-position: 0 5px;
+  padding-left: 35px;
+}
+
+#recent-tweets h1 a {
+  background-image: url('../img/twitter_icon.png');
+  background-size: 25px;
+  background-repeat: no-repeat;
+  background-position: 0 9px;
+  padding-left: 33px;
+}
+
+#recent-updates ul {
+  list-style-type: none;
+  padding-left: 36px;
+}
+
+#recent-blog-posts .post, #recent-tweets .tweet {
+  margin-bottom: 12px;
+}
+
+#recent-blog-posts .title, #recent-tweets .msg {
+  display: block;
+  color: white;
+}
+#recent-blog-posts .author, #recent-tweets .author {
+  display: block;
+  color: #bababa;
 }

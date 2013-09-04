@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="home3.svg">
+   sodipodi:docname="home3.svg"
+   inkscape:export-filename="/tmp/blah/home_mockup.png"
+   inkscape:export-xdpi="100.02027"
+   inkscape:export-ydpi="100.02027">
   <defs
      id="defs4">
     <clipPath
@@ -257,6 +260,18 @@
          operator="in"
          in="result3" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3981">
+      <rect
+         style="color:#000000;fill:#00adeb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3983"
+         width="776.86798"
+         height="256.26974"
+         x="1.6753272"
+         y="461.46136"
+         transform="scale(-1,1)" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -265,20 +280,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.84852814"
-     inkscape:cx="622.97742"
-     inkscape:cy="359.73819"
+     inkscape:zoom="1.6970563"
+     inkscape:cx="727.13793"
+     inkscape:cy="372.34267"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="987"
+     inkscape:window-width="1019"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
-     inkscape:window-y="72"
+     inkscape:window-y="36"
      inkscape:window-maximized="0"
-     showborder="false">
+     showborder="true">
     <sodipodi:guide
        orientation="1,0"
        position="251.07143,151.07143"
@@ -316,7 +331,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -336,14 +351,15 @@
        style="stroke:#000000;stroke-width:7.01206017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4471)"
        inkscape:export-filename="/tmp/mockups/home2.png"
        inkscape:export-xdpi="100.03792"
-       inkscape:export-ydpi="100.03792" />
+       inkscape:export-ydpi="100.03792"
+       clip-path="url(#clipPath3981)" />
     <rect
-       style="color:#000000;fill:#0a0a0a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99711226999999991;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#0a0a0a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99711227;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3755"
        width="2114.5713"
        height="90.886894"
        x="-528.63025"
-       y="300.80725" />
+       y="202.99081" />
     <g
        id="g4313"
        transform="matrix(1.4284687,0,0,1.4284687,38.513719,-166.06732)"
@@ -713,7 +729,10 @@
          style="font-size:14px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Learn more about our research →</flowPara></flowRoot>    <g
        transform="matrix(0.43340393,0,0,0.43340393,747.91042,617.80888)"
        id="g5176"
-       style="fill:#ffffff;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="/tmp/flask2.png"
+       inkscape:export-xdpi="480.54001"
+       inkscape:export-ydpi="480.54001">
       <circle
          sodipodi:ry="2.5"
          sodipodi:rx="2.5"
