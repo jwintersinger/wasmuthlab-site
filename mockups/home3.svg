@@ -274,9 +274,9 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1916"
-     inkscape:window-height="1005"
+     inkscape:window-height="987"
      inkscape:window-x="0"
-     inkscape:window-y="54"
+     inkscape:window-y="72"
      inkscape:window-maximized="0"
      showborder="false">
     <sodipodi:guide
@@ -631,29 +631,29 @@
     <g
        id="g4568"
        style="opacity:0.51239672;fill:#000000;fill-opacity:1"
-       transform="matrix(1.1841671,0,0,1.1841671,89.714825,-85.941626)"
+       transform="matrix(1.6653467,0,0,1.1841671,-85.173829,-85.941626)"
        inkscape:export-filename="/tmp/mockups/home2.png"
        inkscape:export-xdpi="100.03792"
        inkscape:export-ydpi="100.03792">
       <rect
          y="478.80865"
-         x="129.53983"
+         x="209.15773"
          height="35.42477"
-         width="467.26959"
+         width="308.22678"
          id="rect4558"
          style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect4560"
-         width="467.26959"
+         width="308.22678"
          height="35.42477"
-         x="129.53983"
+         x="209.15773"
          y="516.25891" />
       <rect
          y="553.80316"
-         x="130.10684"
+         x="209.53175"
          height="35.42477"
-         width="467.26959"
+         width="308.22678"
          id="rect4562"
          style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
@@ -673,24 +673,26 @@
          y="512.92816"
          style="font-size:37.89334869px;font-weight:normal;text-align:center;line-height:112.99999952%;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Raleway"><tspan
    style="font-size:23.68334198px;font-weight:normal;text-align:center;line-height:112.99999952%;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Raleway"
-   id="tspan3944">We use</tspan> evolutionary parasitology</tspan><tspan
+   id="tspan3944">We use <tspan
+   style="font-size:37.84999847px"
+   id="tspan3213">evolutionary </tspan></tspan>genomics</tspan><tspan
          sodipodi:role="line"
          x="518.96918"
-         y="555.74762"
+         y="555.70844"
          id="tspan3164"
-         style="font-size:37.89334869px;font-weight:normal;text-align:center;line-height:112.99999952%;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Raleway"><tspan
-   style="font-size:23.68334198px;font-weight:normal;text-align:center;line-height:112.99999952%;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Raleway"
-   id="tspan3948">and</tspan> computational biology</tspan><tspan
+         style="font-size:23.68334198px;font-weight:normal;text-align:center;line-height:112.99999952%;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Raleway">and <tspan
+   style="font-size:37.84999847px"
+   id="tspan3210">bioinformatics</tspan></tspan><tspan
          sodipodi:role="line"
-         x="523.81683"
-         y="598.56714"
+         x="523.81689"
+         y="598.51813"
          id="tspan3166"
          style="font-size:37.89334869px;font-weight:normal;text-align:center;line-height:112.99999952%;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Raleway"><tspan
    style="font-size:23.68334198px;text-align:center;line-height:112.99999952%;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-   id="tspan3099">to study</tspan> parasitic worms.  </tspan></text>
+   id="tspan3099">to study</tspan> pathogen biology.  </tspan></text>
     <rect
        y="613.10431"
-       x="611.91547"
+       x="594.23779"
        height="56.720551"
        width="184.52145"
        id="rect4599"
@@ -699,7 +701,7 @@
        xml:space="preserve"
        id="flowRoot4601"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway"
-       transform="matrix(1.1841671,0,0,1.1841671,72.566905,315.67243)"><flowRegion
+       transform="matrix(1.1841671,0,0,1.1841671,54.889236,315.67243)"><flowRegion
          id="flowRegion4603"><rect
            id="rect4605"
            width="130.98102"
@@ -709,7 +711,7 @@
            style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara4607"
          style="font-size:14px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Learn more about our research →</flowPara></flowRoot>    <g
-       transform="matrix(0.43340393,0,0,0.43340393,765.58809,617.80888)"
+       transform="matrix(0.43340393,0,0,0.43340393,747.91042,617.80888)"
        id="g5176"
        style="fill:#ffffff;fill-opacity:1">
       <circle
