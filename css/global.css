@@ -13,6 +13,11 @@ h1, h2, h3, h4, h5, h6 {
   color: white;
 }
 
+body {
+  font-family: 'Droid Sans', sans-serif;
+  color: white;
+}
+
 h1 {
   border-bottom: 1px solid white;
 }
